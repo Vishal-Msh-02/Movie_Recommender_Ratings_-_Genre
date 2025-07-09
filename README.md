@@ -1,17 +1,18 @@
 🎬 Movie Recommendation System using Machine Learning
+
 A personalized movie recommendation web app that suggests top-rated similar movies based on a selected title or genre. Built using Machine Learning (TF-IDF + Cosine Similarity) and deployed with Streamlit.
 
-🔗 Live App: Click here to try it out!
+🔗 Live App: https://movierecommenderratings-genre-ds4rsdgzpk3rq2vrafqk4b.streamlit.app/
 
 📌 Features
 🔍 Movie-based Recommendations
-Select a movie to get 5 similar recommendations, sorted by rating.
+   Select a movie to get 5 similar recommendations, sorted by rating.
 
 🎭 Genre-based Recommendations
-Choose a genre to discover the top 5 highest-rated movies in that category.
+  Choose a genre to discover the top 5 highest-rated movies in that category.
 
 🖼️ Poster Display using TMDb API
-Fetches and displays movie posters alongside recommendations.
+    Fetches and displays movie posters alongside recommendations.
 
 ⚡ Lightweight TF-IDF engine
 Uses text vectorization on movie genres and titles for fast, relevant suggestions.
@@ -62,6 +63,7 @@ Copy
 Edit
 streamlit run app.py
 Or visit the live app — no setup needed!
+https://movierecommenderratings-genre-ds4rsdgzpk3rq2vrafqk4b.streamlit.app/
 
 📷 Screenshots
 Movie-based	
